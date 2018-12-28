@@ -1,2 +1,2 @@
 # tic-tac-go
-A minimal tictactoe game writtent in go
+A minimal tictactoe game written in go
